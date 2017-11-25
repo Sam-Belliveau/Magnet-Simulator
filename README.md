@@ -1,5 +1,7 @@
 # Magnet Simulator
 
+## You Need SFML To Compile
+
 It is really simple. It looks cool?
 
 Space: clear
